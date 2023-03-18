@@ -30,7 +30,7 @@ export const recipeApi = createApi({
 
     deleteRecipe: builder.mutation({
       query: (id) => ({
-        url: `recipes/id`,
+        url: `recipes/${id}`,
         method: 'DELETE',
       }),
     }),

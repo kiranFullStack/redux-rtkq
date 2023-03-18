@@ -5,7 +5,7 @@ import { useGetRecipeByIDQuery } from '../features/APISlice'
 export default function Detail() {
   const { id } = useParams()
 
-  const { data } = useGetRecipeByIDQuery(3)
+  const { data } = useGetRecipeByIDQuery(id)
   return (
     <div>
       <h1>Detail</h1>
