@@ -1,0 +1,308 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Spaghetti Bolognese",
+      "description": "Classic spaghetti with a rich, meaty tomato sauce",
+      "image": "https://www.example.com/images/spaghetti-bolognese.jpg",
+      "ingredients": [
+        {
+          "name": "spaghetti",
+          "amount": "1 pound"
+        },
+        {
+          "name": "ground beef",
+          "amount": "1 pound"
+        },
+        {
+          "name": "canned tomatoes",
+          "amount": "28 ounces"
+        },
+        {
+          "name": "onion",
+          "amount": "1 medium"
+        },
+        {
+          "name": "garlic",
+          "amount": "2 cloves"
+        },
+        {
+          "name": "olive oil",
+          "amount": "2 tablespoons"
+        },
+        {
+          "name": "salt",
+          "amount": "to taste"
+        },
+        {
+          "name": "black pepper",
+          "amount": "to taste"
+        }
+      ],
+      "instructions": [
+        "Bring a large pot of salted water to a boil. Add the spaghetti and cook until al dente, about 10 minutes.",
+        "Meanwhile, heat the olive oil in a large skillet over medium-high heat. Add the onion and garlic and cook until softened, about 5 minutes.",
+        "Add the ground beef and cook until browned, about 10 minutes.",
+        "Add the canned tomatoes and bring to a simmer. Season with salt and black pepper.",
+        "Drain the spaghetti and add it to the skillet with the sauce. Toss to combine and serve immediately."
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Roasted Chicken",
+      "description": "Juicy and flavorful roasted chicken with crispy skin",
+      "image": "https://www.example.com/images/roasted-chicken.jpg",
+      "ingredients": [
+        {
+          "name": "whole chicken",
+          "amount": "4-5 pounds"
+        },
+        {
+          "name": "lemon",
+          "amount": "1"
+        },
+        {
+          "name": "garlic",
+          "amount": "1 head"
+        },
+        {
+          "name": "olive oil",
+          "amount": "2 tablespoons"
+        },
+        {
+          "name": "salt",
+          "amount": "to taste"
+        },
+        {
+          "name": "black pepper",
+          "amount": "to taste"
+        }
+      ],
+      "instructions": [
+        "Preheat the oven to 425 degrees F.",
+        "Remove the giblets from the chicken and pat dry with paper towels.",
+        "Cut the lemon in half and stuff it inside the chicken, along with the garlic.",
+        "Rub the chicken with olive oil and season generously with salt and black pepper.",
+        "Place the chicken in a roasting pan and roast for 1 hour and 15 minutes, or until the internal temperature reaches 165 degrees F.",
+        "Let the chicken rest for 10-15 minutes before carving and serving."
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Chicken Tikka Masala",
+      "description": "A classic Indian dish with tender chicken in a creamy tomato sauce",
+      "image": "https://www.example.com/images/chicken-tikka-masala.jpg",
+      "ingredients": [
+        {
+          "name": "boneless, skinless chicken breasts",
+          "amount": "1.5 pounds"
+        },
+        {
+          "name": "plain yogurt",
+          "amount": "1 cup"
+        },
+        {
+          "name": "lemon juice",
+          "amount": "2 tablespoons"
+        },
+        {
+          "name": "garlic",
+          "amount": "4 cloves"
+        },
+        {
+          "name": "ginger",
+          "amount": "1 inch piece"
+        },
+        {
+          "name": "ground cumin",
+          "amount": "1 teaspoon"
+        },
+        {
+          "name": "paprika",
+          "amount": "1 teaspoon"
+        },
+        {
+          "name": "garam masala",
+          "amount": "1 teaspoon"
+        },
+        {
+          "name": "cayenne pepper",
+          "amount": "1/2 teaspoon"
+        },
+        {
+          "name": "butter",
+          "amount": "2 tablespoons"
+        },
+        {
+          "name": "onion",
+          "amount": "1 medium"
+        },
+        {
+          "name": "tomato sauce",
+          "amount": "1 can (15 ounces)"
+        },
+        {
+          "name": "heavy cream",
+          "amount": "1 cup"
+        },
+        {
+          "name": "salt",
+          "amount": "to taste"
+        },
+        {
+          "name": "black pepper",
+          "amount": "to taste"
+        }
+      ],
+      "instructions": [
+        "In a large bowl, combine the yogurt, lemon juice, garlic, ginger, cumin, paprika, garam masala, cayenne pepper, and salt. Add the chicken and toss to coat. Cover and refrigerate for at least 1 hour, or up to overnight.",
+        "Preheat the broiler to high. Line a baking sheet with aluminum foil.",
+        "Remove the chicken from the marinade and place on the prepared baking sheet. Broil for 10-12 minutes, or until browned and cooked through.",
+        "Meanwhile, melt the butter in a large skillet over medium-high heat. Add the onion and cook until softened, about 5 minutes.",
+        "Add the tomato sauce and bring to a simmer. Season with salt and black pepper.",
+        "Stir in the heavy cream and cooked chicken. Simmer for 10-15 minutes, or until the sauce has thickened and the chicken is fully cooked. Serve with rice or naan bread."
+      ]
+    },
+    {
+      "name": "Ice Cream",
+      "description": "Classic spaghetti with a rich, meaty tomato sauce",
+      "image": "https://www.images.com/images/spaghetti-bolognese.jpg",
+      "ingredients": [
+        {
+          "name": "spaghetti",
+          "amount": "1 pound"
+        },
+        {
+          "name": "ground beef",
+          "amount": "1 pound"
+        },
+        {
+          "name": "canned tomatoes",
+          "amount": "28 ounces"
+        },
+        {
+          "name": "onion",
+          "amount": "1 medium"
+        },
+        {
+          "name": "garlic",
+          "amount": "2 cloves"
+        },
+        {
+          "name": "olive oil",
+          "amount": "2 tablespoons"
+        },
+        {
+          "name": "salt",
+          "amount": "to taste"
+        },
+        {
+          "name": "black pepper",
+          "amount": "to taste"
+        }
+      ],
+      "instructions": [
+        "Bring a large pot of salted water to a boil. Add the spaghetti and cook until al dente, about 10 minutes.",
+        "Meanwhile, heat the olive oil in a large skillet over medium-high heat. Add the onion and garlic and cook until softened, about 5 minutes.",
+        "Add the ground beef and cook until browned, about 10 minutes.",
+        "Add the canned tomatoes and bring to a simmer. Season with salt and black pepper.",
+        "Drain the spaghetti and add it to the skillet with the sauce. Toss to combine and serve immediately."
+      ],
+      "id": 8
+    },
+    {
+      "name": "Chicken Biriyani",
+      "description": "Classic spaghetti with a rich, meaty tomato sauce",
+      "image": "https://www.example.com/images/spaghetti-bolognese.jpg",
+      "ingredients": [
+        {
+          "name": "spaghetti",
+          "amount": "1 pound"
+        },
+        {
+          "name": "ground beef",
+          "amount": "1 pound"
+        },
+        {
+          "name": "canned tomatoes",
+          "amount": "28 ounces"
+        },
+        {
+          "name": "onion",
+          "amount": "1 medium"
+        },
+        {
+          "name": "garlic",
+          "amount": "2 cloves"
+        },
+        {
+          "name": "olive oil",
+          "amount": "2 tablespoons"
+        },
+        {
+          "name": "salt",
+          "amount": "to taste"
+        },
+        {
+          "name": "black pepper",
+          "amount": "to taste"
+        }
+      ],
+      "instructions": [
+        "Bring a large pot of salted water to a boil. Add the spaghetti and cook until al dente, about 10 minutes.",
+        "Meanwhile, heat the olive oil in a large skillet over medium-high heat. Add the onion and garlic and cook until softened, about 5 minutes.",
+        "Add the ground beef and cook until browned, about 10 minutes.",
+        "Add the canned tomatoes and bring to a simmer. Season with salt and black pepper.",
+        "Drain the spaghetti and add it to the skillet with the sauce. Toss to combine and serve immediately."
+      ],
+      "id": 9
+    },
+    {
+      "name": "Chocolate",
+      "description": "Classic spaghetti with a rich, meaty tomato sauce",
+      "image": "https://www.example.com/images/spaghetti-bolognese.jpg",
+      "ingredients": [
+        {
+          "name": "spaghetti",
+          "amount": "1 pound"
+        },
+        {
+          "name": "ground beef",
+          "amount": "1 pound"
+        },
+        {
+          "name": "canned tomatoes",
+          "amount": "28 ounces"
+        },
+        {
+          "name": "onion",
+          "amount": "1 medium"
+        },
+        {
+          "name": "garlic",
+          "amount": "2 cloves"
+        },
+        {
+          "name": "olive oil",
+          "amount": "2 tablespoons"
+        },
+        {
+          "name": "salt",
+          "amount": "to taste"
+        },
+        {
+          "name": "black pepper",
+          "amount": "to taste"
+        }
+      ],
+      "instructions": [
+        "Bring a large pot of salted water to a boil. Add the spaghetti and cook until al dente, about 10 minutes.",
+        "Meanwhile, heat the olive oil in a large skillet over medium-high heat. Add the onion and garlic and cook until softened, about 5 minutes.",
+        "Add the ground beef and cook until browned, about 10 minutes.",
+        "Add the canned tomatoes and bring to a simmer. Season with salt and black pepper.",
+        "Drain the spaghetti and add it to the skillet with the sauce. Toss to combine and serve immediately."
+      ],
+      "id": 10
+    }
+  ]
+}
